@@ -1,0 +1,9 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+th, td {
+    padding: 6px;
+  }
+
+  input { 
+    text-align: right; 
+}
